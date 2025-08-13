@@ -4,6 +4,8 @@
 The YouTube speed control button is hidden in the control panel, requiring three mouse clicks per switch, which is quite cumbersome.
 This project adds a button to the bottom of the player to quickly switch between commonly used speeds.
 
+![UI](UI.png)
+
 ## Update
 V1.0.1 -- Added Live Video Support
 
